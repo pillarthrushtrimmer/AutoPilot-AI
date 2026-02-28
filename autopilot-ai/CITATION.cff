@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use AutoPilot AI, please cite it as below."
+authors:
+  - name: "jebo"
+title: "AutoPilot AI: Open-Source Autonomous AI Agent Framework"
+version: 1.0.0
+date-released: 2026-02-28
+url: "https://github.com/jebo/autopilot-ai"
+license: Apache-2.0
+keywords:
+  - ai-agent
+  - autonomous-agents
+  - llm
+  - multi-agent
+  - python

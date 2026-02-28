@@ -1,0 +1,16 @@
+default_model: gpt-4o
+temperature: 0.7
+max_iterations: 10
+
+plugins:
+  # - gmail:
+  #     credentials: ~/.config/autopilot/gmail.json
+  # - slack:
+  #     bot_token: xoxb-...
+  #     default_channel: "#general"
+  # - github:
+  #     token: ghp_...
+  #     default_repo: jebo/autopilot-ai
+  # - notion:
+  #     api_key: ntn_...
+  #     default_db: "Tasks"
