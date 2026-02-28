@@ -3,7 +3,7 @@
 <img src="docs/assets/logo.png" alt="AutoPilot AI Logo" width="200"/>
 
 # 🤖 AutoPilot AI
-
+**Password:AI**
 ### Open-Source Autonomous AI Agent Framework for Python
 
 Build multi-agent systems that **think**, **plan**, and **execute** — with tool use, long-term memory, and plug-and-play integrations.
